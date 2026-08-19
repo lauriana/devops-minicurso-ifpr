@@ -1,5 +1,5 @@
-📖 GUIA NÍVEL 1: Para Coordenação
-Objetivo: Você tem tudo aqui para apresentar a Nível 1
+📖 GUIA NÍVEL 1: Para Coordenação do Projeto
+Objetivo: Tudo aqui para apresentar a Nível 1
 
 Tempo de leitura: 20 minutos
 
@@ -101,7 +101,7 @@ chmod +x .git/objects
 
 🎯 PRÁTICA #2: AZURE SQL (20 MIN)
 O que o aluno vai fazer
-1. Conectar a Azure SQL (você fornece connection string)
+1. Conectar a Azure SQL (fornecer connection string)
 2. Rodar: python main.py
 3. Ver lista de produtos no console
 Você mostra (Screen share)
@@ -109,7 +109,7 @@ Arquivo: src/database.py
 
 import pyodbc
 
-# Connection string (você fornece aos alunos)
+# Connection string (fornecer aos alunos)
 CONNECTION_STRING = (
     "Driver={ODBC Driver 17 for SQL Server};"
     "Server=seu-servidor.database.windows.net;"
@@ -339,7 +339,7 @@ Se não:
 - F5 novamente
 
 
-📋 CHECKLIST PRÉ-OFICINA (VOCÊ)
+📋 CHECKLIST PRÉ-OFICINA (Coordenação)
 1 semana antes
 Leia este guia (este arquivo)
 Abra o PPTX: DevOps_Nivel_1_Python_Azure.pptx
