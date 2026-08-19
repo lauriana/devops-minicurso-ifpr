@@ -1,0 +1,2 @@
+pyodbc==4.0.37
+python-dotenv==0.21.0
