@@ -28,7 +28,7 @@ Sem teoria maçante. **Apenas prática!**
 - **Completou desafio?** → [Compartilhe em Discussions](../../discussions)
 - **Encontrou erro?** → [Reporte aqui](../../issues/new?template=bug.md)
 
-## 📧 Contato
+## Contato
 
 - Email: devopsifpr@gmail.com
 - GitHub Issues: [Clique aqui](../../issues)
